@@ -1,2 +1,2 @@
 # My_skills
-print("Hello World I Love coding")
+print("Hello World I Love Coding")
